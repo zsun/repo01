@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interact_with_ie.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="interact_with_ie.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stage/interact_with_ie.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="31" selection-start="3138" selection-end="3163" vertical-scroll-proportion="0.0">
+            <state line="6" column="3" selection-start="84" selection-end="84" vertical-scroll-proportion="0.21473685">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="v3_version_validation.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="v3_version_validation.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stage/v3_version_validation.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="256" selection-end="269" vertical-scroll-proportion="0.025796661">
+            <state line="35" column="67" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/stage/interact_with_ie.rb" />
         <option value="$PROJECT_DIR$/stage/v3_version_validation.txt" />
+        <option value="$PROJECT_DIR$/stage/interact_with_ie.rb" />
       </list>
     </option>
   </component>
@@ -158,7 +158,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,17 +182,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
       <pane id="Scope" />
-      <pane id="Favorites" />
       <pane id="PackagesPane" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -474,7 +474,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="1438" height="818" extended-state="0" />
+    <frame x="2" y="0" width="1438" height="818" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -491,8 +491,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="ScratchPad" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19272727" sideWeight="0.7494457" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25055432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.192" sideWeight="0.75072885" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24927114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15248619" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -554,26 +554,28 @@
         <state line="322" column="165" selection-start="11733" selection-end="11739" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stage/interact_with_ie.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="31" selection-start="3138" selection-end="3163" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.IntelliJIdea10/config/plugins/ruby/rubystubs/rubystubs19/object.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="225" column="8" selection-start="7967" selection-end="7984" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webrick/MyRubyUtil.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="78" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stage/v3_version_validation.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="256" selection-end="269" vertical-scroll-proportion="0.025796661">
+        <state line="35" column="67" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webrick/MyRubyUtil.rb">
+    <entry file="file://$PROJECT_DIR$/stage/interact_with_ie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="78" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0" />
+        <state line="6" column="3" selection-start="84" selection-end="84" vertical-scroll-proportion="0.21473685">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

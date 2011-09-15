@@ -4,6 +4,7 @@ require 'watir'
 
 class InteractWithIE
 
+  #testing
   @@existing_ie= Watir::IE.attach(:url, Regexp.new("http://th")   )
   @@existing_ie.wait
   puts "@existing_ie.url = " + @@existing_ie.url
